@@ -1,0 +1,116 @@
+.intro h1 {
+    font-size: 42px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: rgb(0, 195, 255);
+    background:inherit;
+    
+}
+
+.intro {
+    display: table;
+    width: 100%;
+    height: auto;
+    
+    color: #fff;
+    background: url(../../../Assets/images/background.png) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.intro .btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.intro .btn-lg {
+    color: #333;
+    background-color: #0a0a0a ;
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+}
+.intro .btn-default {
+    color: #0a0a0a ;
+    background-color: transparent;
+    border: 2px solid #0a0a0a ;
+    padding: 12px 20px;
+    margin: 0;
+    font-size: 15px;
+    border-radius: 0;
+    text-transform: uppercase;
+}
+
+
+
+.intro .overlay {
+    padding: 100px 0;
+    background: -moz-linear-gradient(top, rgb(255, 255, 255) 0%, rgba(116, 117, 117, 0.6) 150%);
+    background: -webkit-linear-gradient(top,  rgb(255, 255, 255) 0%, rgba(116, 117, 117, 0.6) 150%);
+    background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgba(116, 117, 117, 0.6) 150%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#053740', endColorstr='#99053740', GradientType=0 );
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.intro-text {
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.intro .brand {
+    color: #0a0a0a ;
+    font-weight: 700;
+}
+.intro .intro-text p {
+    font-size: 18px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    text-transform: uppercase;
+    color: rgba(255,255,255,0.9);
+    
+}
+.intro.btn-default:hover, .intro .btn-default:focus, .intro.btn-default.focus, .intro.btn-default:active, .intro.btn-default.active {
+    
+    border-color: #0a0a0a ;
+}
+.Logo {
+    background-image: url(../../../Assets/images/portada.jpg);
+  }
+#subtitle{
+    color:rgb(117, 115, 115);
+}
+.btn-default {
+    color: #fff;
+    background-color: rgba(252, 252, 24, 0.966) !important;
+    border: none !important;
+}
+#slogan{
+    color:rgb(255, 0, 157);
+}
