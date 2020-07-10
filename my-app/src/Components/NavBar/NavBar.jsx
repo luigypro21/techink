@@ -26,11 +26,11 @@ export default class BarraMenu extends Component {
         return (
             <Auxiliar>
                 <Router>
-                    <MDBNavbar fixed="top" dark expand="md" scrolling transparent>
+                    <MDBNavbar fixed="top" dark expand="md" scrolling transparent id="barra">
                         <MDBNavbarBrand href="/">
                             <Row>
                                 <Col>
-                                    <img src={logo} alt="techink" />
+                                    <img id="imgLogo" src={logo} alt="techink" />
                                 </Col>
                             </Row>
                         </MDBNavbarBrand>

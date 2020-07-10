@@ -96,10 +96,7 @@
     color: rgba(255,255,255,0.9);
     
 }
-.intro.btn-default:hover, .intro .btn-default:focus, .intro.btn-default.focus, .intro.btn-default:active, .intro.btn-default.active {
-    
-    border-color: #0a0a0a ;
-}
+
 .Logo {
     background-image: url(../../../Assets/images/portada.jpg);
   }
@@ -107,10 +104,14 @@
     color:rgb(117, 115, 115);
 }
 .btn-default {
-    color: #fff;
-    background-color: rgba(252, 252, 24, 0.966) !important;
-    border: none !important;
+    color: #0a0a0a !important;
+    background-color: transparent !important;
+    
 }
 #slogan{
     color:rgb(255, 0, 157);
+}
+.btn-default:not([disabled]):not(.disabled):active, .btn-default:not([disabled]):not(.disabled).active, .show>.btn-default.dropdown-toggle {
+    background-color: rgba(255, 255, 0, 0.966) !important;
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18), 0 4px 15px 0 rgba(0,0,0,0.15);
 }

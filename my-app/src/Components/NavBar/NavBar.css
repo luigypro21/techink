@@ -30,5 +30,15 @@ a {
  #collapseIcono{
     color:#0a0a0a !important;
  }
+ #barra{
+     height: 20%;
+ }
+ 
+ @media only screen and (min-width:767px) {
+    #imgLogo{
+        padding-top: 50px;
+    }
+  }
+  
  
  
