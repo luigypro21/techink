@@ -17,7 +17,7 @@ export default class Index extends Component {
                 <Header/>
                 <About></About>
                 <Servicios></Servicios>
-                <Contacto></Contacto>
+                
                 <div>Icons made by <a href="https://www.flaticon.com/authors/ultimatearm" title="ultimatearm">ultimatearm</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
             </Auxiliar>
         )
