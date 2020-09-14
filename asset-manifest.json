@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/techink/static/css/main.0aea593e.chunk.css",
+    "main.js": "/techink/static/js/main.adf773b0.chunk.js",
+    "main.js.map": "/techink/static/js/main.adf773b0.chunk.js.map",
+    "runtime-main.js": "/techink/static/js/runtime-main.a2773880.js",
+    "runtime-main.js.map": "/techink/static/js/runtime-main.a2773880.js.map",
+    "static/css/2.c7a0fd76.chunk.css": "/techink/static/css/2.c7a0fd76.chunk.css",
+    "static/js/2.9519ae7b.chunk.js": "/techink/static/js/2.9519ae7b.chunk.js",
+    "static/js/2.9519ae7b.chunk.js.map": "/techink/static/js/2.9519ae7b.chunk.js.map",
+    "index.html": "/techink/index.html",
+    "precache-manifest.9786d886697395340fe637d90151fcd2.js": "/techink/precache-manifest.9786d886697395340fe637d90151fcd2.js",
+    "service-worker.js": "/techink/service-worker.js",
+    "static/css/2.c7a0fd76.chunk.css.map": "/techink/static/css/2.c7a0fd76.chunk.css.map",
+    "static/css/main.0aea593e.chunk.css.map": "/techink/static/css/main.0aea593e.chunk.css.map",
+    "static/js/2.9519ae7b.chunk.js.LICENSE.txt": "/techink/static/js/2.9519ae7b.chunk.js.LICENSE.txt",
+    "static/media/about.jpg": "/techink/static/media/about.682ff599.jpg",
+    "static/media/mdb.css": "/techink/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/Header.css": "/techink/static/media/portada.3b6af44b.jpg",
+    "static/media/all.min.css": "/techink/static/media/fa-solid-900.f3a7d3b5.woff",
+    "static/media/ink.png": "/techink/static/media/ink.f631067b.png",
+    "static/media/logosn.png": "/techink/static/media/logosn.d4ae895a.png",
+    "static/media/print.png": "/techink/static/media/print.f1eae0e0.png",
+    "static/media/toner.png": "/techink/static/media/toner.a902c217.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2773880.js",
+    "static/css/2.c7a0fd76.chunk.css",
+    "static/js/2.9519ae7b.chunk.js",
+    "static/css/main.0aea593e.chunk.css",
+    "static/js/main.adf773b0.chunk.js"
+  ]
+}
