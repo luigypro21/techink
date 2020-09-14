@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/techink/my-app/precache-manifest.d72b64685e496c0b8b4a00a428877a43.js"
+  "/techink/my-app/precache-manifest.f753b4542bb09631f97300cdf26ec139.js"
 );
 
 self.addEventListener('message', (event) => {

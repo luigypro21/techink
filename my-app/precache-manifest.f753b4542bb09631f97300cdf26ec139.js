@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d54a4571253724f129a578108b917cb",
+    "revision": "953b6266197b4a7b6d1b3a4657ccba32",
     "url": "/techink/my-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/techink/my-app/static/css/2.2d2fb70e.chunk.css"
   },
   {
-    "revision": "fe25174bc8e82fc35f67",
+    "revision": "1775507907f662a5fd39",
     "url": "/techink/my-app/static/css/main.14701d03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/techink/my-app/static/js/2.9519ae7b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe25174bc8e82fc35f67",
-    "url": "/techink/my-app/static/js/main.08e3ec0e.chunk.js"
+    "revision": "1775507907f662a5fd39",
+    "url": "/techink/my-app/static/js/main.42a57bef.chunk.js"
   },
   {
     "revision": "23c921568833f485b07f",
